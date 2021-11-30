@@ -19,6 +19,8 @@ body {
   margin: 0 auto;
   padding: 1.5rem;
   border-radius: 20px;
+  -webkit-box-shadow: 0px 30px 60px #0C1729;
+          box-shadow: 0px 30px 60px #0C1729;
 }
 
 .card .box_image {
